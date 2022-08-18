@@ -40,3 +40,6 @@ Here are some links that you may find helpful in understanding what IBM Cloud Fu
 * Learn how Cloud Functions supports advanced [IAM access control through the use if Namespaces](https://cloud.ibm.com/docs/openwhisk?topic=cloud-functions-namespaces#targeting-namespaces).
 
 **Note** _All workshop materials are provided under the [Apache 2 license](LICENSE)._
+
+![serverless-computing-using-cloud-functions-developer-i](https://user-images.githubusercontent.com/29455975/185416487-7c2af3e1-d223-4e0f-b491-70e6bc609c7b.png)
+
