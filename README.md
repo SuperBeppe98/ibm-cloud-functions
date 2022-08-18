@@ -17,9 +17,6 @@
 #
 -->
 
-## Badge & Certificate
-![serverless-computing-using-cloud-functions-developer-i](https://user-images.githubusercontent.com/29455975/185416487-7c2af3e1-d223-4e0f-b491-70e6bc609c7b.png)
-
 # IBM Cloud Functions Workshops
 
 *Welcome to the homepage for workshops that are designed to teach you how to develop **serverless applications**, composed of loosely coupled microservice-like functions, using the [IBM Cloud Functions](https://cloud.ibm.com/functions) service. IBM Cloud Functions is based upon the [Apache OpenWhisk](https://openwhisk.apache.org/) open-source serverless platform whose initial codebase came out of IBM Research and was donated to the Apache Software Foundation (ASF).*
@@ -44,5 +41,32 @@ Here are some links that you may find helpful in understanding what IBM Cloud Fu
 
 **Note** _All workshop materials are provided under the [Apache 2 license](LICENSE)._
 
+## Course Syllabus
+- Summary : [Summary for browse modules](./SUMMARY.md)
+- Module 1: [Serverless essentials]
+- Module 2: [Create and invoke actions (lab)]
+- Module 3: [Manage actions with packages (lab)]
+- Module 4: [Connect actions to event sources (lab)]
+- Module 5: [Expose APIs from actions (lab)]
+- Module 6: [Use the Web User Interface (Web UI)]
+- Module 7: Final Exam
+<br>
+
+## Course Overview
+- Comprehend how serverless computing works and ways it can be used in cloud applications
+- Distinguish use cases and patterns compatible with Serverless
+- Create and manage serverless functions using the IBM Cloud Functions platform
+- Use packages to organize your functions and create reusable building blocks
+- Automate your functions using alarm events
+- Expose functions as to the web accessible endpoints and as APIs that return different content types
+- Navigate the web user interface to perform similar tasks that mirror CLI commands
+<br>
+
+## Grading Scheme
+- Graded Quiz(50%, no time limit) + Final Exam(50%, 1-hour time limit)
+<br>
+
+## Badge & Certificate
+![cloud-core](https://user-images.githubusercontent.com/29455975/185416204-a78604f6-8c72-4059-b93a-2fbc1f7394b8.png)
 
 
