@@ -17,6 +17,9 @@
 #
 -->
 
+## Badge & Certificate
+![serverless-computing-using-cloud-functions-developer-i](https://user-images.githubusercontent.com/29455975/185416487-7c2af3e1-d223-4e0f-b491-70e6bc609c7b.png)
+
 # IBM Cloud Functions Workshops
 
 *Welcome to the homepage for workshops that are designed to teach you how to develop **serverless applications**, composed of loosely coupled microservice-like functions, using the [IBM Cloud Functions](https://cloud.ibm.com/functions) service. IBM Cloud Functions is based upon the [Apache OpenWhisk](https://openwhisk.apache.org/) open-source serverless platform whose initial codebase came out of IBM Research and was donated to the Apache Software Foundation (ASF).*
@@ -41,5 +44,5 @@ Here are some links that you may find helpful in understanding what IBM Cloud Fu
 
 **Note** _All workshop materials are provided under the [Apache 2 license](LICENSE)._
 
-![serverless-computing-using-cloud-functions-developer-i](https://user-images.githubusercontent.com/29455975/185416487-7c2af3e1-d223-4e0f-b491-70e6bc609c7b.png)
+
 
