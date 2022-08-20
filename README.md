@@ -66,7 +66,7 @@ Here are some links that you may find helpful in understanding what IBM Cloud Fu
 - Graded Quiz(50%, no time limit) + Final Exam(50%, 1-hour time limit)
 <br>
 
-## Badge & Certificate
+## Badge
 ![cloud-core](https://user-images.githubusercontent.com/29455975/185416204-a78604f6-8c72-4059-b93a-2fbc1f7394b8.png)
 
 
